@@ -9,7 +9,7 @@
 
 ---
 
-## 🔧 Tech Stack  
+##  Tech Stack  
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) 
@@ -27,9 +27,9 @@
 
 ---
 
-## 🚀 Projects  
+##  Projects  
 
-- 🧠 **NLP** – text classification, sentiment analysis, language modeling  
-- 👁️ **Computer Vision** – object detection, image recognition with deep learning  
-- 📊 **Data-driven Analysis** – from raw data to insights  
-- ⚙️ **ML Foundations** – classical algorithms to modern neural networks  
+-  **NLP** – text classification, sentiment analysis, language modeling  
+-  **Computer Vision** – object detection, image recognition with deep learning  
+-  **Data-driven Analysis** – from raw data to insights  
+-  **ML Foundations** – classical algorithms to modern neural networks  
