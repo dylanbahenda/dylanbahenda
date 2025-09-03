@@ -1,9 +1,9 @@
 <div align="center">
   
-# 👋 Hi, I’m Dylan  
+#  Hi, I’m Dylan  
 
-🎓 **BSc Artificial Intelligence** – Unipv | Unimib | Unimi  
-📚 **Incoming MSc AI4ST** – Unimib | Unimi | Unipv  
+ **BSc Artificial Intelligence** – Unipv | Unimib | Unimi  
+ **Incoming MSc AI4ST** – Unimib | Unimi | Unipv  
 
 </div>
 
