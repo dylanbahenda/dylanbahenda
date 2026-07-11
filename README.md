@@ -4,7 +4,7 @@
 
 **MSc AI for Science and Technology** – Unimib · Unimi · Unipv (Current)
 
-**BSc Artificial Intelligence** – Unipv | Unimib | Unimi (Completed) 
+**BSc Artificial Intelligence** – Unipv · Unimib · Unimi (Completed) 
 
 </div>
 
